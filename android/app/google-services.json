@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093591273887",
+    "project_id": "loca-f3793",
+    "storage_bucket": "loca-f3793.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093591273887:android:49a679fdce90dd56ff6daa",
+        "android_client_info": {
+          "package_name": "com.example.loc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA38wKDDKZLhxElAiksfU-a3claqjC9fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
