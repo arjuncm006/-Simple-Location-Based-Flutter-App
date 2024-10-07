@@ -25,3 +25,9 @@ It is a login page with firebase authentication
 
 
 ![WhatsApp Image 2024-10-07 at 08 25 38_cd26ab48](https://github.com/user-attachments/assets/ba86746c-d1cf-4cdf-a123-37b898e1433f)
+
+
+The place where you can enter the desired location
+
+![WhatsApp Image 2024-10-07 at 08 25 38_83279db6](https://github.com/user-attachments/assets/cc6b6141-abf0-47c2-be35-45357ceba76a)
+
