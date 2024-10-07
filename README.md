@@ -31,3 +31,13 @@ The place where you can enter the desired location
 
 ![WhatsApp Image 2024-10-07 at 08 25 38_83279db6](https://github.com/user-attachments/assets/cc6b6141-abf0-47c2-be35-45357ceba76a)
 
+
+The blue location icon is the one we search for. And it is also displays the location of other registered user.
+
+![WhatsApp Image 2024-10-07 at 08 25 38_c92a56ee](https://github.com/user-attachments/assets/f8734fab-3dd6-4300-b5fb-6e964df44113)
+
+
+It displays the live location of the device and it updates the location to the database for every 5 seconds. To the firebase
+
+![WhatsApp Image 2024-10-07 at 08 38 39_142ffe6d](https://github.com/user-attachments/assets/78de7866-16ed-4d7d-aae5-d4dcd2b98451)
+
