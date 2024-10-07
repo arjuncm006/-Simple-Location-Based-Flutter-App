@@ -1,3 +1,4 @@
+Simple Location-Based Flutter App, is a mobile application that tracks user location in real time. It integrates Google Maps and Firebase to show the location of users who have installed the app. The project provides a basic structure for location tracking and display, making it ideal for use cases like live user tracking
 
 
  OutPut:
