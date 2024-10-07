@@ -26,6 +26,12 @@ It is a login page with firebase authentication
 
 ![WhatsApp Image 2024-10-07 at 08 25 38_cd26ab48](https://github.com/user-attachments/assets/ba86746c-d1cf-4cdf-a123-37b898e1433f)
 
+New user can register, Once the user is registered there details will be stored to firebase authentication and in the firestore
+
+
+![WhatsApp Image 2024-10-07 at 08 39 01_28a7d39e](https://github.com/user-attachments/assets/9e3c2533-6ec4-4e36-8840-3920f9a6039e)
+
+
 
 The place where you can enter the desired location
 
